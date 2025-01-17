@@ -5,7 +5,7 @@
 
 main:
   - name: Bio
-    url: /
+    url: /es/
     weight: 10
   - name: Artículos
     url: /#papers
